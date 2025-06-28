@@ -14,13 +14,6 @@ A modern, intuitive expense tracking application built with Flutter, featuring o
 - **Interactive Charts:** Visualize your spending patterns with pie and bar charts.
 - **Responsive Design:** Works smoothly on both Android and iOS devices.
 
-## Screenshots
-
-| ![Screenshot_20250628_205046](https://github.com/user-attachments/assets/bce521c1-6ad5-41f5-930e-9de_20250628_205000](https://github.com/user-attachments/assets/d35b5253-17f1-4609-8242-03a|
-| **Expense Overview** | **Add Expense Screen** |
-
-| ![Screenshot_20250628_204940](https://github.com/user-attachments/assets/4e38ed54-b759-4e0d ![Screenshot_20250628_204830](https://github.com/user-attachments/assets/ca086e89-673e-4d43-995e---:|
-| **Expense List View** | **Dark Mode Example** |
 
 ## Getting Started
 
