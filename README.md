@@ -65,9 +65,4 @@ ios/                 # iOS-specific configuration
 
 
 
-**Tip:**  
-To make your README even more attractive, consider adding a short demo video or GIF and a license section if your project is open source.
 
-*Feel free to copy and use this updated README.md for your project!*
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/65772316/f974e6ed-f0fe-42c4-82ee-6ed1855b449d/README.md
