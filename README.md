@@ -17,7 +17,12 @@ Interactive Charts: Visualize your spending patterns with pie and bar charts.
 Responsive Design: Works smoothly on both Android and iOS devices.
 
 Screenshots
-Add screenshots of your app here if you want (optional).
+![Screenshot_20250628_205046](https://github.com/user-attachments/assets/bce521c1-6ad5-41f5-930e-9dee5e975898)
+![Screenshot_20250628_205000](https://github.com/user-attachments/assets/d35b5253-17f1-4609-8242-03a7285e3a1c)
+![Screenshot_20250628_204940](https://github.com/user-attachments/assets/4e38ed54-b759-4e0d-a0e6-fe38096b4e5c)
+![Screenshot_20250628_204830](https://github.com/user-attachments/assets/ca086e89-673e-4d43-995e-1b82c141be9b)
+
+
 
 Getting Started
 Prerequisites
